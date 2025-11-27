@@ -18,4 +18,4 @@ Patterns of inequality were visualized and compared across neighborhoods.
 
 Results: 
 
-https://arcg.is/0mLCOj2
+[https://arcg.is/0mLCOj2]
