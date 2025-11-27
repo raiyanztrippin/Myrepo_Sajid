@@ -19,4 +19,5 @@ Patterns of inequality were visualized and compared across neighborhoods.
 Results: 
 
 Story Map: [https://arcg.is/0mLCOj2]
+
 Presentation Slides: https://cuny620-my.sharepoint.com/:p:/g/personal/joy_iheukwumere28_myhunter_cuny_edu/EXMdhDGu8B5Orkway9UGXBkBgllzN4OrxriLaehZ8wZsrA?e=babVVC
